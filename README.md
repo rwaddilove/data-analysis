@@ -3,7 +3,7 @@
 *By Roland Waddilove*
 
 I'm learning Python and wrote this as a learning exercise. I wanted to practise analysing data, so I downloaded some data and analyse it in various ways.
-There are probably modules that can do this faster, better, and easier. Hopefully, the code may help other learners.
+There are probably modules that can do this faster, better, and easier, which I will look at later on in my Python learning. Hopefully, the code here may help other learners.
 
 ### What data?
 
